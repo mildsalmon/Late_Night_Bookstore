@@ -35,6 +35,10 @@
 
 - [좋은 사람을 만나서 발전하려면...](http://github.com/mildsalmon/Late_Night_Bookstore/blob/main/excerpt%20summary/%EC%A2%8B%EC%9D%80%20%EC%82%AC%EB%9E%8C%EC%9D%84%20%EB%A7%8C%EB%82%98%EC%84%9C%20%EB%B0%9C%EC%A0%84%ED%95%98%EB%A0%A4%EB%A9%B4....md)
 
+#### g. 메타 인지
+
+- [나는 모르겠어요](https://github.com/mildsalmon/Late_Night_Bookstore/blob/Excerpt_Summary/excerpt%20summary/%EB%82%98%EB%8A%94%20%EB%AA%A8%EB%A5%B4%EA%B2%A0%EC%96%B4%EC%9A%94.md)
+
 ### B. 어떤 생각을 가지고 투자에 임해야 할까?
 
 #### a. 바벨 전략
