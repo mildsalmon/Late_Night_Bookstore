@@ -37,7 +37,7 @@
 
 #### g. 메타 인지
 
-- 
+- [나는 모르겠어요](https://github.com/mildsalmon/Late_Night_Bookstore/blob/Excerpt_Summary/excerpt%20summary/%EB%82%98%EB%8A%94%20%EB%AA%A8%EB%A5%B4%EA%B2%A0%EC%96%B4%EC%9A%94.md)
 
 ### B. 어떤 생각을 가지고 투자에 임해야 할까?
 
