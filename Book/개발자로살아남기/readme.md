@@ -2,7 +2,7 @@
 
 # 1. 엔지니어링 역량 (성장하는 10년)
 
-### a. 개발에 대한 기본 지식
+### a. [개발에 대한 기본 지식](https://github.com/mildsalmon/Late_Night_Bookstore/blob/main/Book/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C%EC%82%B4%EC%95%84%EB%82%A8%EA%B8%B0/1_%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98%EC%86%8C%EC%96%91.md)
 
 개발은 하드웨어, 운영체제, 자료구조, 알고리즘, 데이터베이스, 네트워킹 그리고 개발 도구를 어느 정도는 알아야 적절한 프로그래밍 언어로 개발할 수 있다.
 
