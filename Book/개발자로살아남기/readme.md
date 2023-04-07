@@ -14,7 +14,7 @@
 
 사용자와 다르게 제품을 사용하면 사용자와 다른 경험을 하게 되므로 사용자와 공감할 수 없다.
 
-### c. 개발 주기 지식
+### c. [개발 주기 지식](https://github.com/mildsalmon/Late_Night_Bookstore/blob/main/Book/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C%EC%82%B4%EC%95%84%EB%82%A8%EA%B8%B0/3_30%EB%85%84%EA%B0%84%20%EC%8B%A4%EC%B2%9C%ED%95%A0%20%EA%B0%9C%EB%B0%9C%20%EC%A3%BC%EA%B8%B0.md)
 
 1. 요구사항 분석하기
 2. 시스템 구조 설계하기
