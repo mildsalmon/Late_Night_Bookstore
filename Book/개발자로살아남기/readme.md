@@ -37,7 +37,7 @@
   - 핵심은 신뢰와 지식.
   - 본인 약점을 말하되, 자신의 약점을 어떤 방식으로 도와줬으면 좋겠는지 말하게 한다.
   - 팀 존재 이유는 서로의 장점을 공유해서 극대화하고 약점을 보완해주는 것
-- 프로세스 관리
+- [프로세스 관리](https://github.com/mildsalmon/Late_Night_Bookstore/blob/0409/Book/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C%EC%82%B4%EC%95%84%EB%82%A8%EA%B8%B0/7_%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4_%EB%B0%94%EB%A1%9C_%EC%84%B8%EC%9A%B0%EA%B8%B0.md)
   - 진행하는 과정을 관리하는 기술
   - 프로세스(일을 하는 과정을 정리하는 것)
   - 프로세스를 만들면 규격화해 측정할 수 있다. (두세 번 반복하면서 최적화할 수 있다.)
@@ -70,7 +70,7 @@
 
 인문이나 리더십 서적 등 다양한 주제의 책을 읽어야 하며, 매년 새로운 사람들을 만나는 노력을 해야 한다.
 
-### c. 프로젝트 리딩, 테크니컬 리딩, 피플 매니징
+### c. [프로젝트 리딩](https://github.com/mildsalmon/Late_Night_Bookstore/blob/0409/Book/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C%EC%82%B4%EC%95%84%EB%82%A8%EA%B8%B0/4_%EC%84%B1%EA%B3%B5%EC%9D%84_%EC%9D%B4%EB%81%84%EB%8A%94_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EB%A6%AC%EB%93%9C.md), [테크니컬 리딩](https://github.com/mildsalmon/Late_Night_Bookstore/blob/0409/Book/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C%EC%82%B4%EC%95%84%EB%82%A8%EA%B8%B0/5_%EA%B8%B0%EC%88%A0_%EC%A3%BC%EB%8F%84_%ED%85%8C%ED%81%AC%EB%8B%88%EC%BB%AC_%EB%A6%AC%EB%93%9C.md), [피플 매니징](https://github.com/mildsalmon/Late_Night_Bookstore/blob/0409/Book/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C%EC%82%B4%EC%95%84%EB%82%A8%EA%B8%B0/6_%ED%96%89%EB%B3%B5%EC%9D%84_%EB%A7%8C%EB%93%9C%EB%8A%94_%ED%94%BC%ED%94%8C_%EB%A7%A4%EB%8B%88%EC%A0%80)
 
 중간 관리자는 1. 프로젝트 리딩. 2. 테크니컬 리딩. 3. 피플 매니징을 한다.
 
