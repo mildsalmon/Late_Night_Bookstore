@@ -109,6 +109,12 @@
 
 비전이 큰 목표라면 그 아래 세세한 가이드나 사상을 핵심 가치(core value)라고 부른다.
 
-# 4. 개발자로 살아남기 30년
+# 4. 개발자로 살아남기 [30년](https://github.com/mildsalmon/Late_Night_Bookstore/blob/part4/Book/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C%EC%82%B4%EC%95%84%EB%82%A8%EA%B8%B0/12_30%EB%85%84_%EC%BB%A4%EB%A6%AC%EC%96%B4%ED%8C%A8%EC%8A%A4%EC%97%90%EC%84%9C_%EB%B0%B0%EC%9A%B4_%EA%B2%83.md)
 
-시간 관리
+[시간 관리](https://github.com/mildsalmon/Late_Night_Bookstore/blob/part4/Book/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C%EC%82%B4%EC%95%84%EB%82%A8%EA%B8%B0/11_%EC%8B%9C%EA%B0%84_%EA%B4%80%EB%A6%AC_%EB%B9%84%EB%B2%95.md)
+
+# 5. [부록](https://github.com/mildsalmon/Late_Night_Bookstore/blob/part4/Book/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C%EC%82%B4%EC%95%84%EB%82%A8%EA%B8%B0/13_%EB%B6%80%EB%A1%9D.md)
+
+# 6. [에필로그](https://github.com/mildsalmon/Late_Night_Bookstore/blob/part4/Book/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C%EC%82%B4%EC%95%84%EB%82%A8%EA%B8%B0/14_%EC%97%90%ED%95%84%EB%A1%9C%EA%B7%B8.md)
+
+
