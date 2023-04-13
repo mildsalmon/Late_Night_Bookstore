@@ -78,17 +78,17 @@
 
 # 3. 비즈니스 역량 (서포트하는 10년)
 
-### a. 인사 시스템
+### a. [인사 시스템](https://github.com/mildsalmon/Late_Night_Bookstore/blob/part3/Book/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C%EC%82%B4%EC%95%84%EB%82%A8%EA%B8%B0/8_%EC%9E%98_%EB%BD%91%EA%B3%A0_%EC%9E%98_%EB%93%A4%EC%96%B4%EA%B0%80%EA%B8%B0.md)
 
 인사 평가가 제대로 동작하려면 퍼포먼스 리뷰 방식이 잘 정리되어 있어야 한다.
 
-### b. 비즈니스 관리
+### b. [비즈니스 관리](https://github.com/mildsalmon/Late_Night_Bookstore/blob/part3/Book/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C%EC%82%B4%EC%95%84%EB%82%A8%EA%B8%B0/9_%EB%8F%88_%EB%90%98%EB%8A%94_%EC%82%AC%EC%97%85_%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
 
 30년 커리어패스를 꿈꾼다면 기회가 될 때마다 경제경영 공부(투자)를 해둬야 한다.
 
 개발자라도 비즈니스 책을 읽어보거나 다른 직무의 사람과 대화를 하며 지식의 영역을 확장해야 한다.
 
-### c. 체인지 매니지먼트
+### c. [체인지 매니지먼트](https://github.com/mildsalmon/Late_Night_Bookstore/blob/part3/Book/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C%EC%82%B4%EC%95%84%EB%82%A8%EA%B8%B0/10_%EB%B9%84%EC%A0%84%EC%9D%84_%EA%B3%B5%EC%9C%A0%ED%95%98%EB%8A%94_%EC%A1%B0%EC%A7%81_%EB%AC%B8%ED%99%94_%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
 
 > 변화
 
