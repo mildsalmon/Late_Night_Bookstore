@@ -118,3 +118,6 @@
 # 6. [에필로그](https://github.com/mildsalmon/Late_Night_Bookstore/blob/part4/Book/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C%EC%82%B4%EC%95%84%EB%82%A8%EA%B8%B0/14_%EC%97%90%ED%95%84%EB%A1%9C%EA%B7%B8.md)
 
 
+# 참고문헌
+
+박종천. [개발자로 살아남기](https://product.kyobobook.co.kr/detail/S000001953766). 3쇄. 골든래빗. 2022년
